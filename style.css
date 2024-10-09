@@ -10,6 +10,10 @@ body {
   font-family: 'Sono', sans-serif;
   padding: 40px;
 }
+
+.hidden {
+  display: none !important;
+}
 /* MAIN LAYOUT */
 
 .container {
